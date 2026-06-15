@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arya Auti</h1>
+<h1 align="center">Hi 👋, I'm Arya</h1>
 <h3 align="center">WordPress Speed Optimization Expert</h3>
 
 <p align="center">
