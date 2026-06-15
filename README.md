@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Siddharth Kumar</h1>
+<h3 align="center">WordPress Speed Optimization Expert</h3>
 
-<!--
-**buildbyarya/Buildbyarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I help agencies & e-commerce sites get 90+ PageSpeed scores
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🔥 Currently building: WP Speed Booster Plugin
+  <br>
+  📫 DM me: t.me/buildbyarya
+</p>
